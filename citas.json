@@ -1,0 +1,16 @@
+[
+    {
+        "nombre": "Max",
+        "edad": "7 meses",
+        "tipo_animal": "perro",
+        "color": "negro",
+        "enfermedad": "mal olor"
+    },
+    {
+        "nombre": "Bruno",
+        "edad": "10 meses",
+        "tipo_animal": "perro",
+        "color": "amarillo",
+        "enfermedad": "Flojo"
+    }
+]
